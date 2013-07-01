@@ -3,7 +3,7 @@ Top-down 2D tile based game engnine with infinite procedural chunk generation us
 **This is just an experiment and not complete in any way**
 
 ## Installation
-Just colone and open _index.html_ in your browser.
+Just clone and open _index.html_ in your browser.
 
 ## Compability
 Latest _Chrome_ and _Firefox_ works fine (Chrome has better performance)
