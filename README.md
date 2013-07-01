@@ -47,5 +47,7 @@ You can supply these arguments in the URL:
 * Collision detection
 * Animations
 
+You can see it in action on <a href="http://www.youtube.com/watch?v=PRamnpPCHKI">my YouTube channel</a><br />
+
 ## TODO
 Lots of stuff...
